@@ -1,2 +1,12 @@
-# .env를 깃허브에 안올리겠다는 파일 .gitignore
+# Local credentials
 .env
+**/.env
+.env.*
+!.env.example
+**/.env.*
+!**/.env.example
+
+# Notebook and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

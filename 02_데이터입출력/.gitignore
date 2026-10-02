@@ -1,0 +1,2 @@
+# .env를 깃허브에 안올리겠다는 파일 .gitignore
+.env
