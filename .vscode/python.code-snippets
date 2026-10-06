@@ -1,0 +1,8 @@
+{
+  "Matplotlib package": {
+    "scope": "python",
+    "prefix": ["matplot", "matplotlob"],
+    "body": "matplotlib",
+    "description": "Complete matplotlib package name"
+  }
+}
